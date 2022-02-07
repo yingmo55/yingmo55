@@ -3,13 +3,12 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 
 
 ## 🏗 Currently Working On...
-🚧 [wip] **A quiz help determine wich language to learn**  
-![progress: 30%](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)  
-[repo](https://github.com/yingmo55/which-language-first) | [live](https://programming-1fa19a.netlify.app/)
+🚧  **A quiz help determine wich language to learn**  
+![progress: 30%](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) [wip] [repo](https://github.com/yingmo55/which-language-first) | [live](https://programming-1fa19a.netlify.app/)
 
 💭**A browser based doodle app**  
 ![progress: 15%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) (began project)  
-    (repo coming soon)
+
 
 📝**My portfolio site**  
 ![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) (wireframing)  
@@ -41,8 +40,8 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 
 ### 💻 Software & IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-)  
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)  
-![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)  
+) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
+![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 
