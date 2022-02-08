@@ -1,11 +1,11 @@
 # Welcome 👋
 I'm Ying, a self-taught front-end developer with an interests in Machine Learning and Natural Language Processing. I am proficient in HTML, CSS, JavaScript, and React.js. 
 
+## Recent Projects
+ 🖥 **An interactive quiz helps determine wich language to learn**  
+![progress: 100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  [repo](https://github.com/yingmo55/which-language-first) | [live](https://first-programming-language.netlify.app/)
 
 ## 🏗 Currently Working On...
-🚧  **A quiz help determine wich language to learn**  
-![progress: 30%](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) [wip] [repo](https://github.com/yingmo55/which-language-first) | [live](https://programming-1fa19a.netlify.app/)
-
 💭**A browser based doodle app**  
 ![progress: 15%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) (began project)  
 
@@ -16,8 +16,9 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 
 ## **About Me**
 ### I am...
-+ 📥 looking for jobs!
++ 📥 Looking for work in front-end!
 + 📖 Currently Learning: Redux
++ 🤖 Interested in: NLP, Machine Learning, Chatbot
 
 
 ### 📬 How to reach me...
