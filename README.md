@@ -7,12 +7,12 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 
 ## 🏗 Currently Working On...
 💭**A browser based doodle app**  
-![progress: 15%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) (began project)  
+![progress: 75%](https://us-central1-progress-markdown.cloudfunctions.net/progress/75) (prototype finished. Currently adding more features) [live](https://doodle-with-js.netlify.app/)
 
+🖼 **My portfolio site**  
+![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) (wireframing)  
 
-📝**My portfolio site**  
-![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) (wireframing)  
-
+📝 Rewriting README.md for previous projects
 
 ## **About Me**
 ### I am...
