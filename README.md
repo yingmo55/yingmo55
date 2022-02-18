@@ -6,27 +6,38 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 ![progress: 100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  [repo](https://github.com/yingmo55/which-language-first) | [live](https://first-programming-language.netlify.app/)
 
 ## 🏗 Currently Working On...
-💭**A browser based doodle app**  
-![progress: 75%](https://us-central1-progress-markdown.cloudfunctions.net/progress/75) (prototype finished. Currently adding more features) [live](https://doodle-with-js.netlify.app/)
-
 🖼 **My portfolio site**  
-![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) (wireframing)  
+![progress: 40%](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)  
++ Wireframe and prototype finished. 
++ Next step: rebuild in React
 
-📝 Rewriting README.md for previous projects
+🔢 **Sudoku**
+![progress: 0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
++ Tools to use: React
++ planning
+
+💭**A browser based doodle app** (onhold)  
+![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  
++ prototype created. 
++ Next step: rebuild in React
 
 ## **About Me**
 ### I am...
-+ 📥 Looking for work in front-end!
++ 📥 Looking for work in front-end development!
 + 📖 Currently Learning: Redux
 + 🤖 Interested in: NLP, Machine Learning, Chatbot
 
 
 ### 📬 How to reach me...
-<a href="https://www.linkedin.com/in/yingyimo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yingyimo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>  
+📧 email: hello@yingyimo.dev
 
 <br />
 
-![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yingmo55)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingmo55&layout=compact)](https://github.com/yingmo55/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🧰My Skills
 ### 👩‍💻Language
