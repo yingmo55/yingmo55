@@ -37,6 +37,15 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingmo55&layout=compact)](https://github.com/yingmo55/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Total: 26 hrs 58 mins
+
+CSS          8 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 % 
+JavaScript   8 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   32.70 % 
+HTML         5 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Markdown     3 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Python       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+```
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
