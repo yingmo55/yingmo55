@@ -38,11 +38,11 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.03 % 
-CSS          4 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.02 % 
-Markdown     2 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 % 
-HTML         1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Python       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+CSS          3 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.05 % 
+JavaScript   3 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.41 % 
+Markdown     2 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 % 
+HTML         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Python       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
 
