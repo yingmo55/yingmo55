@@ -8,27 +8,25 @@ I'm Ying, a *self-taught front-end developer* with an interests in Machine Learn
 + 📖 Currently Learning: Redux, data structure, and algorithm
 + 🤖 Interested in: NLP, Machine Learning, Chatbot
 + 🦈 Fun fact about me: I like sharks
++ 📬 How to react me: [here!](#-how-to-reach-me)
 
 ## Recent Projects
  🖥 **An interactive quiz helps determine wich language to learn**  
 💻 [repo](https://github.com/yingmo55/which-language-first) | 🔗 [live](https://first-programming-language.netlify.app/)
 
  🍅 **Tomatodo: A minimalistic todo list app with a time display & Timer**  
-💻 repo: coming soon | 🔗 [live](https://tomatodo.netlify.app/)
+💻 [repo](https://github.com/yingmo55/Todo-List) | 🔗 [live](https://tomatodo.netlify.app/)
 
 ## 🏗 Currently Working On...
-🖼 **My portfolio site**  
-![progress: 40%](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)  
+🖼 **My portfolio site**  ![progress: 40%](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)  
 + Wireframe and prototype finished. 
 + Next step: rebuild in React
 
-🔢 **Sudoku**  
-![progress: 0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
+🔢 **Sudoku**  　![progress: 0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
 + Tools to use: React
 + planning
 
-💭**A browser based doodle app** (onhold)  
-![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  
+💭**A browser based doodle app**  ![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  (onhold) 
 + prototype created. 
 + Next step: rebuild in React
 
@@ -58,7 +56,7 @@ I'm Ying, a *self-taught front-end developer* with an interests in Machine Learn
 
 ### 💻 Software & IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-)  
+)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
 ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
