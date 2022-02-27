@@ -1,9 +1,20 @@
-# Welcome 👋
-I'm Ying, a self-taught front-end developer with an interests in Machine Learning and Natural Language Processing. I am proficient in HTML, CSS, JavaScript, and React.js. 
+# Hi there!
+
+## About me
+I'm Ying, a *self-taught front-end developer* with an interests in Machine Learning, AI, and Natural Language Processing. I primarely work with HTML, CSS, JavaScript, and React.js, but my favorite programming language is Python!
+
+### I am...
++ 📥 Looking for work in front-end development!
++ 📖 Currently Learning: Redux, data structure, and algorithm
++ 🤖 Interested in: NLP, Machine Learning, Chatbot
++ 🦈 Fun fact about me: I like sharks
 
 ## Recent Projects
  🖥 **An interactive quiz helps determine wich language to learn**  
-![progress: 100%](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)  [repo](https://github.com/yingmo55/which-language-first) | [live](https://first-programming-language.netlify.app/)
+💻 [repo](https://github.com/yingmo55/which-language-first) | 🔗 [live](https://first-programming-language.netlify.app/)
+
+ 🍅 **Tomatodo: A minimalistic todo list app with a time display & Timer**  
+💻 repo: coming soon | 🔗 [live](https://tomatodo.netlify.app/)
 
 ## 🏗 Currently Working On...
 🖼 **My portfolio site**  
@@ -11,7 +22,7 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 + Wireframe and prototype finished. 
 + Next step: rebuild in React
 
-🔢 **Sudoku**
+🔢 **Sudoku**  
 ![progress: 0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
 + Tools to use: React
 + planning
@@ -21,29 +32,17 @@ I'm Ying, a self-taught front-end developer with an interests in Machine Learnin
 + prototype created. 
 + Next step: rebuild in React
 
-## **About Me**
-### I am...
-+ 📥 Looking for work in front-end development!
-+ 📖 Currently Learning: Redux
-+ 🤖 Interested in: NLP, Machine Learning, Chatbot
-
-
-### 📬 How to reach me...
-<a href="https://www.linkedin.com/in/yingyimo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>  
-📧 email: hello@yingyimo.dev
-
 <br />
+
+## 📊 Stats
+
+### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingmo55&layout=compact)](https://github.com/yingmo55/github-readme-stats)
 
+### WakaTime Stats
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 31 mins  ██████████████████████░░░   88.27 % 
-CSS          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-```
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
@@ -59,8 +58,11 @@ JSON         5 mins          ▒░░░░░░░░░░░░░░░░
 
 ### 💻 Software & IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-) 
+)  
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) 
 ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
 
+## 📬 How to reach me...
+<a href="https://www.linkedin.com/in/yingyimo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>  
+📧 email: hello@yingyimo.dev
