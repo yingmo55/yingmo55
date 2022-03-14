@@ -2,7 +2,7 @@
 
 ## About me
 <div style="display: flex; flex-flow: row nowrap">
-  <div style="display: flex; flex-flow: column; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <img src='./hand-coding-animate.svg' alt="A clip art style svg with a woman in front of a laptop and codeblock floating in the air" style="height: 400px; width: 400px;" />
   <a href="https://storyset.com/work" >Work illustrations by Storyset</a>
   </div>
