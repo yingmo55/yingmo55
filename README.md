@@ -1,18 +1,18 @@
 # Hi there!
 
 ## About me
-<div>
-<div style="float: left; display: flex; flex-flow: column wrap; justify-content: center; align-items: center;">
-<img src='./hand-coding-animate.svg' alt="A clip art style svg with a woman in front of a laptop and codeblock floating in the air" style="height: 200px; width: 200px;" />
-<a href="https://storyset.com/work" >Work illustrations by Storyset</a>
+<div style="display: flex flex-flow: row wrap">
+  <div style="float: left; display: flex; flex-flow: column wrap; justify-content: center; align-items: center;">
+  <img src='./hand-coding-animate.svg' alt="A clip art style svg with a woman in front of a laptop and codeblock floating in the air" style="height: 200px; width: 200px;" />
+  <a href="https://storyset.com/work" >Work illustrations by Storyset</a>
+  </div>
+  <div>
+  <p>I'm Ying, a self-taught *front-end developer* who's also interested in Machine Learning, AI, and Natural Language Processing. I primarily work with HTML, CSS, JavaScript, and React.js, but my favorite programming language is Python! </p>
+  <p>In my spare time, I like doodling and playing video games.</p>
+  <p>🕹 currently playing: Mother/Earthbound (Famicom / NES)</p>
+  </div>
 </div>
 
-I'm Ying, a self-taught *front-end developer* who's also interested in Machine Learning, AI, and Natural Language Processing. I primarily work with HTML, CSS, JavaScript, and React.js, but my favorite programming language is Python!  
-In my spare time, I like doodling and playing video games.  
-🕹 currently playing: Mother/Earthbound (Famicom / NES)
-</div>
-
-<br>
 <hr>
 <h3> I am... </h3>
 + 📥 Looking for work in front-end development!
