@@ -20,7 +20,6 @@ In my spare time, I like doodling and playing video games.
 (Image credit: <a href="https://storyset.com/work">Work illustrations by Storyset</a> )
 <br>
 <br>
-<hr>
 
 ## Recent Projects
 🖼 **My portfolio site**: My Technical portfolio  
