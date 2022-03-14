@@ -16,7 +16,7 @@ In my spare time, I like doodling and playing video games.
  🍅 **Tomatodo: A minimalistic todo list app with a time display & Timer**  
 💻 [repo](https://github.com/yingmo55/Todo-List) | 🔗 [live](https://tomatodo.netlify.app/)
 
- 🖥 **An interactive quiz helps determine wich language to learn**  
+ 🖥 **An interactive quiz helps determine which language to learn**  
 💻 [repo](https://github.com/yingmo55/which-language-first) | 🔗 [live](https://first-programming-language.netlify.app/)
 
 
@@ -29,13 +29,18 @@ In my spare time, I like doodling and playing video games.
   + [ ] project pages
   + [ ] Content on Landing page
 
-🔢 **Sudoku**  　![progress: 0%](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)  
-+ Tools to use: React
-+ currently: planning & workin on algorithms
+🔢 **Sudoku**  　![progress: 20%](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)  
++ Collaboration project
++ Technologies: React, JavaScript
++ currently: working on logic
 
-💭**A browser based doodle app** ![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  (onhold) 
+💭**A browser based doodle app** ![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  (on hold) 
 + prototype created. 
 + Next step: rebuild in React
+
+🔠 **Word Search** ![progress: 5%](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)  
++ A word search app that supports custom word list input 
++ Currently: Planning
 <br />
 
 ## 📊 Stats
@@ -46,16 +51,6 @@ In my spare time, I like doodling and playing video games.
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```text
-CSS          11 hrs 42 mins  █████████░░░░░░░░░░░░░░░░   36.34 %
-HTML         11 hrs 7 mins   ████████▓░░░░░░░░░░░░░░░░   34.52 %
-JavaScript   8 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-Markdown     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
