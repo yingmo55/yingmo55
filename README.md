@@ -57,12 +57,12 @@ In my spare time, I like doodling and playing video games.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 38 mins   █████████████████▓░░░░░░░   71.15 %
-CSS          1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Markdown     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-HTML         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JavaScript   11 hrs 30 mins  ██████████████████░░░░░░░   71.72 %
+HTML         2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+CSS          1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Markdown     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
