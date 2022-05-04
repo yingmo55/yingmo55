@@ -22,6 +22,10 @@ In my spare time, I like doodling and playing video games.
 <br>
 
 ## Recent Projects
+🕸 **URL shortening API landing page**   
+💻 [repo](https://github.com/yingmo55/URL-shortening-API-landing-page) | 🔗 [live: yingyimo.dev](https://shortenurl-ying.netlify.app/)
+
+
 🖼 **My portfolio site**: My Technical portfolio  
 💻 [repo](https://github.com/yingmo55/portflio-site) | 🔗 [live: yingyimo.dev](https://yingyimo.dev)
 
@@ -33,18 +37,12 @@ In my spare time, I like doodling and playing video games.
 
 
 ## 🏗 Currently Working On...
-🔢 **Sudoku**  　![progress: 30%](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)  
-+ Collaboration project 
-+ Technologies: React, JavaScript
-+ currently: working on logic
+🥤 **PHLASK**  | Open source contribution
 
-💭**A browser based doodle app** ![progress: 10%](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)  (on hold) 
-+ prototype created. 
-+ Next step: rebuild in React
++ Wrote unit test for crowdsourcing form
++ currently: working on half-modal ticket
 
-🔠 **Word Search** ![progress: 5%](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)  
-+ A word search app that supports custom word list input 
-+ Currently: Planning
+
 <br />
 
 ## 📊 Stats
@@ -55,16 +53,6 @@ In my spare time, I like doodling and playing video games.
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   5 hrs 54 mins   ██████████████████░░░░░░░   72.30 %
-CSS          51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-HTML         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-SCSS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
