@@ -6,8 +6,7 @@
 ## About me
 
 I'm Ying, a self-taught *front-end developer* who's also interested in Machine Learning, AI, and Natural Language Processing. I primarily work with HTML, CSS, JavaScript, and React.js, but my favorite programming language is Python! 
-In my spare time, I like doodling and playing video games.  
-🕹 currently playing: Mother/Earthbound (Famicom / NES)  
+
 
 ### I am... 
 
@@ -53,16 +52,6 @@ In my spare time, I like doodling and playing video games.
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   4 hrs 3 mins    █████████████████░░░░░░░░   68.02 %
-HTML         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-CSS          36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-JSON         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-SCSS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
