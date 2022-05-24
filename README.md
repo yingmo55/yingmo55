@@ -54,11 +54,8 @@ I'm Ying, a self-taught *front-end developer* who's also interested in Machine L
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   43 mins         █████████████████▒░░░░░░░   69.41 %
-SCSS         11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JSON         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JavaScript   0 secs          ██████████████████████▓░░   90.89 %
+SCSS         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 ```
 
 <!--END_SECTION:waka-->
