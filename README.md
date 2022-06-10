@@ -22,11 +22,11 @@ I'm Ying, a self-taught *front-end developer* who's also interested in Machine L
 
 ## Recent Projects
 🕸 **URL shortening API landing page**   
-💻 [repo](https://github.com/yingmo55/URL-shortening-API-landing-page) | 🔗 [live: yingyimo.dev](https://shortenurl-ying.netlify.app/)
+💻 [repo](https://github.com/yingmo55/URL-shortening-API-landing-page) | 🔗 [live](https://shortenurl-ying.netlify.app/)
 
 
 🖼 **My portfolio site**: My Technical portfolio  
-💻 [repo](https://github.com/yingmo55/portflio-site) | 🔗 [live: yingyimo.dev](https://yingyimo.dev)
+💻 [repo](https://github.com/yingmo55/portflio-site) | 🔗 [live](https://yingyimo.dev)
 
  🍅 **Tomatodo: A minimalistic todo list app with a time display & Timer**  
 💻 [repo](https://github.com/yingmo55/Todo-List) | 🔗 [live](https://tomatodo.netlify.app/)
@@ -41,6 +41,11 @@ I'm Ying, a self-taught *front-end developer* who's also interested in Machine L
 + Wrote unit test for crowdsourcing form
 + currently: working on half-modal ticket
 
+🔘 **Morse Code Encoder/Decoder** 
+
++ A morse code encoder/decoder (for both English and Japanese) built with React with Typescript and Material UI
++ features to implement: decode and encode Morse Code for Japanese
+
 
 <br />
 
@@ -52,38 +57,44 @@ I'm Ying, a self-taught *front-end developer* who's also interested in Machine L
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
 
-<div style="display:flex; justify-content: center; align-item: center; flex-direction: row wrap;">
-  <div style="margin: 10px;">
-  <h3>👩‍💻Language</h3>
-  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='JavaScript badge' />
-  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5 badge' style="margin: auto;"/>
-  <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='CSS badge' />
-  <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='Python Badge' />
-  </div>
-  <div style="margin: 10px;">
-  <h3>🛠 Framework</h3>
-  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt=' React badge' />
-  <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux badge' />
-  <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap badge' />
-  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='Tailwind CSS badge' />
-  </div>
-  <div style="margin: 10px;">
-  <h3>💻 Tools, Software & IDE</h3>
-  <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='Visual Studio Code badge' />
-  <img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6' alt='Adobe PhotoShop badge' />
-  <img src='https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white' alt='Adobe InDesign badge' />
-  <img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black' alt='Adobe XD badge' />
-  </div>
-</div>
+
+### 👩‍💻Language
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+### 🛠 Framework I've Used
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 🧰 Tools, Software & IDE
+
+**Operating System**: ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+**IDE**: ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+
 
 <br>
 
