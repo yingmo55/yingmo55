@@ -57,6 +57,11 @@ I'm Ying, a self-taught *front-end developer* who's also interested in Machine L
 ### WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🧰My Skills
