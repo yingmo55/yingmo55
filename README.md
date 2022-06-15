@@ -59,12 +59,12 @@ I'm Ying, a self-taught *front-end developer* who's also interested in Machine L
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 20 mins  ██████████████████▒░░░░░░   73.12 %
-JavaScript   2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-Markdown     1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   12 hrs 21 mins  █████████████████▓░░░░░░░   71.00 %
+JavaScript   3 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
+Markdown     1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
